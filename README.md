@@ -1,13 +1,7 @@
----
-description: Docker简介
----
+# README
 
-# introduction
+本仓库仅用于个人学习使用，不做任何商用，所有知识都是在网上查找资料的。
 
-本章将带领你进入 **Docker** 的世界。
+<table><thead><tr><th width="305">标签</th><th width="251">原文</th></tr></thead><tbody><tr><td>Docker</td><td>《Docker-从入门到实践》</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 
-什么是 **Docker**？
-
-用它会带来什么样的好处？
-
-好吧，让我们带着问题开始这神奇之旅。
+**未经允许不得转载！**
